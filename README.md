@@ -62,4 +62,19 @@ Learning HTML
     <td>Activity-11</td>
     <td>Anchor Tag</td>
   </tr>
+  <tr>
+    <td>11</td>
+    <td>Activity-11</td>
+    <td>Anchor Tag</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>Activity-12</td>
+    <td>HTML Entities and HTML Comments</td>
+  </tr>
+    <tr>
+    <td>13</td>
+    <td>Activity-13</td>
+    <td>Create Table to Display your Team Members</td>
+  </tr>
 </table>
