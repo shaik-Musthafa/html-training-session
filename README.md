@@ -96,4 +96,9 @@ Learning HTML
     <td>17</td>
     <td>Activity-17</td>
     <td>HR
+     <tr>
+    <td>18</td>
+    <td>Activity-18</td>
+    <td>Div tag in HTML</td>
+  </tr>
 </table>
